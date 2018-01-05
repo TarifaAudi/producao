@@ -1,0 +1,12 @@
+﻿RunAction "GA", oneIteration
+RunAction "IniciarNavegacao", oneIteration
+RunAction "Login", oneIteration
+RunAction "PortalCol", oneIteration
+RunAction "Cadastro", oneIteration
+RunAction "Veiculo", oneIteration
+RunAction "Questionario", oneIteration
+RunAction "Cobertura", oneIteration
+RunAction "Calculo", oneIteration
+RunAction "Controlador", oneIteration
+RunAction "Planilha_Final_Teste", oneIteration
+RunAction "Finaliza_Testes_Time", oneIteration

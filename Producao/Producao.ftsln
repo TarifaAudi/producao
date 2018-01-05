@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "Producao", "Producao\Test.tsp", "23FF7A17-3989-43E5-A36E-072DA86697A4"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = D:\Producao\Producao\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		23FF7A17-3989-43E5-A36E-072DA86697A4.Debug|Any CPU.Build.0 = Debug|Any CPU
+		23FF7A17-3989-43E5-A36E-072DA86697A4.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		23FF7A17-3989-43E5-A36E-072DA86697A4.Release|Any CPU.Build.0 = Release|Any CPU
+		23FF7A17-3989-43E5-A36E-072DA86697A4.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(Function Libraries) = postProject
+		LerDados = D:\Producao\LIB\LerDados.qfl
+		flGerenciadornew = D:\Producao\LIB\flGerenciadornew.qfl
+		Util = D:\Producao\LIB\Util.qfl
+	EndGlobalSection
+EndGlobal
